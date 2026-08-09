@@ -43,54 +43,7 @@ const projects = [
     featured: true,
     visual: "health",
   },
-  {
-    title: "DEVSTORE",
-    label: "WEB PROJECT",
-    category: "Web",
-    description:
-      "A front-end store experience built as a practical web development project with a deployed Vercel version.",
-    tags: ["HTML", "CSS", "JavaScript"],
-    repo: "https://github.com/DEVV-CHAUDHARY/DEVSTORE",
-    live: "https://devstore-drax1.vercel.app",
-    featured: false,
-    visual: "store",
-  },
-  {
-    title: "FABLE.CO.IN",
-    label: "WEB PROJECT",
-    category: "Web",
-    description:
-      "A website implementation project maintained as a public GitHub repository with a live Vercel deployment.",
-    tags: ["HTML", "CSS", "JavaScript"],
-    repo: "https://github.com/DEVV-CHAUDHARY/FABLE.CO.IN",
-    live: "https://fable-co-in.vercel.app",
-    featured: false,
-    visual: "fable",
-  },
-  {
-    title: "SSR Hrikala Website",
-    label: "NEXT.JS PROJECT",
-    category: "Web",
-    description:
-      "A Next.js website project with a modern application structure, public assets and Vercel deployment.",
-    tags: ["Next.js", "TypeScript", "React"],
-    repo: "https://github.com/DEVV-CHAUDHARY/ssrhrikala-website",
-    live: "https://ssrhrikala-website.vercel.app",
-    featured: false,
-    visual: "next",
-  },
-  {
-    title: "Packers & Movers Landing Page",
-    label: "LANDING PAGE",
-    category: "Web",
-    description:
-      "A focused landing-page project built with HTML, CSS and JavaScript for a service-oriented web experience.",
-    tags: ["HTML", "CSS", "JavaScript"],
-    repo: "https://github.com/DEVV-CHAUDHARY/packers-movers-landing-page",
-    live: null,
-    featured: false,
-    visual: "landing",
-  },
+ 
   {
     title: "Calculator Java",
     label: "JAVA PROJECT",
